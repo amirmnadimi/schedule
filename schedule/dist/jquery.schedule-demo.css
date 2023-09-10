@@ -1,0 +1,29 @@
+/**
+ * jQuery Schedule v2.1.0
+ * https://github.com/Yehzuna/jquery-schedule
+ * Thomas BORUSZEWSKI <yehzuna@outlook.com>
+ */
+@font-face {
+  font-family: 'iransans';
+  src: url('../font/IRANSansWebFaNum-Light.eot');
+  src: url('../font/IRANSansWebFaNum-Light.woff2');
+  src: url('../font/IRANSansWebFaNum-Light.woff');
+  src: url('../font/IRANSansWebFaNum-Light.ttf');
+}
+
+body,
+html {
+  margin: 0;
+  padding: 0;
+  background: #fefefe;
+  font-family: 'iransans';
+}
+
+.jqs-demo {
+  min-width: 100%;
+  width: 100%;
+  height: 100%;
+  background: #fff;
+  border: 1px solid #ddd;
+}
+
